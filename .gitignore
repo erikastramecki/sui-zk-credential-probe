@@ -1,0 +1,6 @@
+# build output
+circuit/proof-export.json
+converter/target/
+move/dregg_verifier/build/
+move/dregg_verifier/Pub.*.toml
+*.hex
